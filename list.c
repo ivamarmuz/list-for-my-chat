@@ -2,7 +2,6 @@
 #define SESSION_H
 
 #include <stdlib.h>
-#include <unistd.h>
 #include <stdio.h>
 
 #include "list.h"
